@@ -7,3 +7,5 @@ The alphabet is kept in a Binary Tree. To covnert morse code to english, the Bin
 ## Concepts:
 * [ ] Java Progamming Langauge
 * [ ] Data Structures
+* [x] User can **view a list of todo items**
+
